@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Netflix",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
+    },
+    {
+        "name": "Spotify",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+    },
+    {
+        "name": "Amazon Prime Video",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png"
+    },
+    {
+        "name": "Disney+",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
+    },
+    {
+        "name": "YouTube Premium",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+    },
+    {
+        "name": "Microsoft 365",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+    },
+    {
+        "name": "Adobe Creative Cloud",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg"
+    },
+    {
+        "name": "ChatGPT Plus",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+    },
+    {
+        "name": "Notion",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"
+    },
+    {
+        "name": "Canva Pro",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"
+    },
+    {
+        "name": "Google One",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_One_logo.svg"
+    },
+    {
+        "name": "Dropbox",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg"
+    },
+    {
+        "name": "iCloud",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/ICloud_logo.svg"
+    },
+    {
+        "name": "Amazon Prime",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+    },
+    {
+        "name": "Flipkart Plus",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flipkart_logo.png"
+    },
+    {
+        "name": "Swiggy One",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Swiggy_logo.png"
+    },
+    {
+        "name": "Zomato Gold",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"
+    },
+    {
+        "name": "Xbox Game Pass",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xbox_logo_%282019%29.svg"
+    },
+    {
+        "name": "PlayStation Plus",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg"
+    },
+    {
+        "name": "Apple Arcade",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+    },
+    {
+        "name": "Coursera Plus",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg"
+    },
+    {
+        "name": "Udemy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg"
+    },
+    {
+        "name": "Medium",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg"
+    },
+    {
+        "name": "LinkedIn Premium",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+    },
+    {
+        "name": "Zoom Pro",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg"
+    }
+]
